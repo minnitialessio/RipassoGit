@@ -21,7 +21,7 @@ namespace RipassoGit
     public partial class MainWindow : Window
     {
         public MainWindow()
-        {
+        {//commento prova
             InitializeComponent();
         }
     }
